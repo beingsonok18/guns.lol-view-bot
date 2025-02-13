@@ -9,7 +9,7 @@ banner=""" ▄▄ • ▄• ▄▌ ▐ ▄ .▄▄ ·   ▄▄▌        ▄▄
 ·▀▀▀▀  ▀▀▀ ▀▀ █▪ ▀▀▀▀ ▀ .▀▀▀  ▀█▄▀▪.▀▀▀   . ▀  ▀▀▀ ▀▀▀  ▀▀▀▀ ▀▪·▀▀▀▀  ▀█▄▀▪ ▀▀▀ 
 """
 print(banner)
-url = input("Votre pseudo guns.lol > ")
+url = input("https://guns.lol/sonokthecasanova")
 headers = {
     #"cookie": "security_token=6d647174d809ee80e2ad14f80fe07cb5c2c1517d5ea72a7401b403eb5ead5c2e",
     "accept": "*/*",
